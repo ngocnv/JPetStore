@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="jenkinGIT-demo" default="war" basedir=".">
+	<property file="build.properties" />
+</project>
